@@ -17,5 +17,5 @@ The data is loaded dynamically from [Our World in Data COVID-19 dataset](https:/
 2. Install dependencies:
    ```bash
    pip install pandas
-=======
+   
 # covid19-data-project
