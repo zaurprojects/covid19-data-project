@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # COVID-19 Data Visualization Project
 
 This project aims to analyze and visualize COVID-19 data using Python.
@@ -20,4 +19,3 @@ The data is loaded dynamically from [Our World in Data COVID-19 dataset](https:/
    pip install pandas
 =======
 # covid19-data-project
->>>>>>> 5526cba7465bb400484eca3bd7183e1731fe5cc6
